@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nurjahan khatun</h1>
-<h3 align="center">Passionate Web Designer, developer, and WordPress expert with a strong focus on creating user-friendly, responsive website. , from Dhaka</h3>
+<h3 align="center">Passionate Web Designer, developer, and WordPress expert with a strong focus on creating user-friendly, responsive website. , from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noorjahankhatun&label=Profile%20views&color=0e75b6&style=flat" alt="noorjahankhatun" /> </p>
 
